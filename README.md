@@ -1,6 +1,8 @@
 # GD-Interns
 1.Install and run project
+
 mvn install
+
 mvn spring-boot:run
 
 
